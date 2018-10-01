@@ -1,2 +1,1 @@
-this is  an example
-hello
+this contains DSA examples

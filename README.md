@@ -1,1 +1,2 @@
-this contains DSA examples
+### DSA Examples
+This repository is for DSA example programs

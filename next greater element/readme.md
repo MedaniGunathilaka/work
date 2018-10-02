@@ -1,4 +1,4 @@
-#Next Greater Element
+# Next Greater Element
 Given an array, print the Next Greater Element (NGE) for every element. The Next greater Element for an element x is the first greater element on the right side of x in array. Elements for which no greater element exist, consider next greater element as -1.
 
 Examples:
@@ -22,5 +22,5 @@ d) For the input array [13, 7, 6, 12}, the next greater elements for each elemen
    12     -->     -1
 ```
 
-####Method 
+#### Method 
 Use two loops: The outer loop picks all the elements one by one. The inner loop looks for the first greater element for the element picked by outer loop. If a greater element is found then that element is printed as next, otherwise -1 is printed.

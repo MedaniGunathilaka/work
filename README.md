@@ -4,6 +4,6 @@ This repository is for DSA example programs
 ```
 Please feel free to add comments or open issues if you could write any other more optimised programs.
 ```
-Lahiruka Wijesinghe
-[github](https://github.com/lahirukawijes)
+Lahiruka Wijesinghe<br/>
+[github](https://github.com/lahirukawijes) <br/>
 lahruka.wijesinghe@gmail.com

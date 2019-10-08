@@ -1,4 +1,5 @@
-### DSA Examples
+## DSA Examples
+
 This repository is for DSA example programs
 ![img](https://github.com/lahirukawijes/work/blob/master/img/dsa.jpg)
 ```
